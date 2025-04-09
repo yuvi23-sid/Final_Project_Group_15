@@ -20,6 +20,15 @@ function App() {
       </header>
     </div>
   );
+
+  function App() {
+    return (
+      <div>
+        <h1>Group 12</h1>
+        <p>Team Members: Your Name</p>
+      </div>
+    );
+  }
 }
 
 export default App;
