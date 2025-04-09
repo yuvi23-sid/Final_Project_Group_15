@@ -25,7 +25,12 @@ function App() {
     return (
       <div>
         <h1>Group 12</h1>
-        <p>Team Members: Your Name</p>
+        <p>Team Members: 
+              Tegvir Singh Bains
+              Tim Karachentsev
+              Parvesh Mann
+              Yuvraj Sidhu
+        </p>
       </div>
     );
   }
